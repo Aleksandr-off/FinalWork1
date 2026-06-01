@@ -2,8 +2,8 @@
 using namespace std;
 
 int main() {
-    int a;
-	int b; //добавил переменную B
+    int a1;
+    int b; 
     cout << "Vvedite chislo: ";
     cin >> a; 
     
